@@ -8,7 +8,7 @@ This is a graphical showcase / test scene created in OpenGL and GLFW created to 
 
 + Real Time Lighting
 + Point Lights
-+ Direction Lights
++ Directional Lights
 + Dynamic Shadows
 + Colored Lighting
 
@@ -20,11 +20,13 @@ This is a graphical showcase / test scene created in OpenGL and GLFW created to 
 + Procedural Displacement Over Time Using Geometry Shaders
 
 ### Shaders & Texturing
+
 + Seamless 3D Skybox
 + Transparency
 + Reflective Materials With Adjustable IOR
 
 ### Other
+
 + Bezier Curve Implementation
 + Fully Controlable Plane Model
 + Custom Dynamic Particle System With Billboarding
