@@ -1,6 +1,21 @@
-An OpenGL scene used to practice and showcase graphical programming, created using the GLFW library
+# Overview
 
-Images:
+This is a graphical showcase / test scene created in OpenGL and GLFW created to learn more about graphical programming and how to use these libraries
+
+# Features
+
+## Lighting
+
++ Real Time Lighting
++ Point Shadows 
++ Colored Lighting
++ Bezier Curve Implementation
++ Procedurally Generated Water Using Perlin Noise
++ Procedural Displacement Over Time Using Geometry Shaders
++ Seamless 3D Skybox
++ 
+
+# Images
 
 ![alt text](https://github.com/Piotr-Janusz/OpenGLShowcase/blob/master/images/opengl1.png "Image 1")
 
