@@ -4,16 +4,30 @@ This is a graphical showcase / test scene created in OpenGL and GLFW created to 
 
 # Features
 
-## Lighting
+### Lighting
 
 + Real Time Lighting
-+ Point Shadows 
++ Point Lights
++ Direction Lights
++ Dynamic Shadows
 + Colored Lighting
-+ Bezier Curve Implementation
+
+### Modeling
+
 + Procedurally Generated Water Using Perlin Noise
++ Custom build OBJ parser
++ Procedural Sphere Generator
 + Procedural Displacement Over Time Using Geometry Shaders
+
+### Shaders & Texturing
 + Seamless 3D Skybox
-+ 
++ Transparency
++ Reflective Materials With Adjustable IOR
+
+### Other
++ Bezier Curve Implementation
++ Fully Controlable Plane Model
++ Custom Dynamic Particle System With Billboarding
 
 # Images
 
